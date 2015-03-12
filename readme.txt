@@ -1,12 +1,12 @@
 === Sellector ===
 Contributors: Sellector GmbH
-Tags: product filter, product configurator, configurator, facetted search, 
+Tags: search, find, filter, product filter, product configurator, configurator, facetted search
 Requires at least: 3.5
 Tested up to: 4.1.1
 Stable tag: 0.0.1
 License: GPLv2
 
-Customize and integrate a Sellector data feed into your wordpress website.
+Customize and integrate a Sellector into your wordpress website.
 
 == Description ==
 A. Creation
