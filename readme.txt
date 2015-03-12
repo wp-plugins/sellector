@@ -6,7 +6,7 @@ Tested up to: 4.1.1
 Stable tag: 0.0.1
 License: GPLv2
 
-Tool to conveniently customize and integrate a Sellector data feed into any wordpress website.
+Customize and integrate a Sellector data feed into your wordpress website.
 
 == Description ==
 A. Creation
@@ -28,5 +28,5 @@ B. Embedding into page or post
 
 == Screenshots ==
 
-Sellector Product Filter Wordpress Plug-In ceate.jpg
-Sellector Product Filter Wordpress Plug-In integrate.jpg
+assets/ceate.jpg
+assets/integrate.jpg
