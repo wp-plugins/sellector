@@ -27,6 +27,5 @@ B. Embedding into page or post
    7. Preview, save or publish your post.
 
 == Screenshots ==
-
 assets/ceate.jpg
 assets/integrate.jpg
