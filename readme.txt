@@ -2,8 +2,8 @@
 Contributors: Sellector GmbH
 Tags: search, filter, product filter, product configurator, configurator, facetted search, Konfigurator, Prouktkonfigurator, Facettensuche, Produkt-Filter
 Requires at least: 3.5
-Tested up to: 4.1.1
-Stable tag: 0.0.2
+Tested up to: 4.2
+Stable tag: 0.0.3
 License: GPLv2
 
 Customize and integrate a Sellector into your wordpress website.

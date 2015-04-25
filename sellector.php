@@ -68,7 +68,7 @@ function add_sellector_meta_box()
 		<input type="text" name="sid" id="sid" value="<?= @$custom["sid"][0] ?>"/>
 	</p>
 	<p>
-		<label>Template Code:</label><br/><span style="font-size: smaller">(Use the Wizard below to initially create the template code, and if desired you can later modify it here.)</span><br />
+		<label>Template Code:</label><br/><span style="font-size: smaller">(Use the Wizard below to initially generate the template code. If required you can later modify it here.)</span><br />
 		<textarea rows="10" name="template" id="template" class="width99"><?= @$custom["template"][0] ?></textarea>
 	</p>
 	<input name="selectBoxIds" id="selectBoxIds" type="hidden" value="<?= @$custom["selectBoxIds"][0] ?>"/>
