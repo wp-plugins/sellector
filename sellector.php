@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 Plugin Name: Sellector
-Version: 0.0.1
+Version: 0.0.3
 Plugin URI: http://http://www.easeofchoice.com/plugins/wordpress-sellector/
 Description: Tool to conveniently customize and integrate a Sellector data feed into any wordpress website.
 Author: Sellector GmbH
